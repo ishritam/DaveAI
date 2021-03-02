@@ -19,6 +19,7 @@ Project structure
     ├── config.py                    > Enviornment file storing both the file path
     ├── README.md                    > The top-level README for developers using this project.
     ├── requirements.txt             > All the requirements which is needed to run this project.
+    ├── result.json                  > Output json file.
     ├── CSVs
         ├── one.csv 
         ├── two.csv 
